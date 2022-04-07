@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Welcome to my Github page
+### Welcome to my Github
 
 <p align = "center">
 <img src = "images/giphy (2).gif">
