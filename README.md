@@ -21,3 +21,7 @@ Currently working on Gait designing and PID controllers for quadruped robots in 
 <a href="https://www.linkedin.com/in/skandaakkihebbalprasanna/">
   <img align="left" alt="Skanda's LinkdeIN" width="30px" src="images/linkedin.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Skanda-sap.Skanda-sap)
+</br>
+
