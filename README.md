@@ -1,7 +1,7 @@
 ### Hey there 👋
 
-### Welcome to my Github
-I'm Skanda Akkihebbal Prasanna, a Roboticist by hobby and passion. Embarking on my career as a Robotics engineer with a Master's degree from Northeastern University, I bring over two years of dedicated experience focusing on the development and seamless integration of embedded systems tailored specifically for robotics platforms.
+### Welcome to my GitHub
+I'm Skanda Akkihebbal Prasanna, a Roboticist by hobby and passion. As a Robotics engineer with a Master's degree from Northeastern University, I bring dedicated experience focusing on the development and seamless integration of embedded systems tailored specifically for robotics platforms.
 
 Proficient in Linux software development, Python, C++, C, and bash scripting, I possess a solid foundation in robotics frameworks such as ROS, ROS2, PyTorch, and TensorFlow. My expertise extends to designing, implementing, and optimizing algorithms for various robotics applications. 
 
@@ -16,10 +16,6 @@ Committed to continuous learning and self-improvement, I approach projects with 
 <img src = "images/giphy (2).gif">
 </p>
 
-### About my projects and interests
-
-- 🌱 I’m currently working on 3D STRUCTURE FROM MOTION OF LOW CONTRAST GLACIAL FRONTS: ESTIMATING ACCURACY AND SCALE.
-- I'm pursuing certifications in Introduction to Visual Perception for Self-Driving Cars, Motion Planning for Self-Driving Cars offered by the University of Toronto on Coursera and Autosar architecture on Udemy.
 <!-- 
 <a href="https://skanda-sap.github.io/">
   <img align="left" alt="Skanda's portfolio" width="30px" src="images/giphy.gif" />
