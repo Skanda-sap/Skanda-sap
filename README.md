@@ -26,4 +26,4 @@ Committed to continuous learning and self-improvement, I approach projects with 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Skanda-sap.Skanda-sap)
 </br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Skanda-sap&theme=meta-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
